@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-Array-Diziler Hakkında", "Array-Diziler Hakkında\001-Array-Diziler Hakkında.csproj", "{99D9E381-2DFC-48ED-9964-671DAF3EE458}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-Boyutu Dinamik Olarak Değişen Dizi Tasarımı", "Boyutu Dinamik Olarak Değişen Dizi Tasarımı\002-Boyutu Dinamik Olarak Değişen Dizi Tasarımı.csproj", "{ACE34B5D-DBE5-45C2-A22C-D5479241A586}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-Tek Yönlü Bağlı Liste", "Tek Yönlü Bağlı Dizi\003-Tek Yönlü Bağlı Liste.csproj", "{24046632-D4FF-4CE0-A3BE-DFF62CC4BC43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004-Çift Yönlü Bağlı Liste", "Çift Yönlü Bağlı Liste\004-Çift Yönlü Bağlı Liste.csproj", "{55D13BCF-FDFF-4544-AEB7-165921CC6E1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005-Yığın Yapısı", "Yığın Yapısı\005-Yığın Yapısı.csproj", "{7B6E2EAB-EEA7-47AC-92E6-E4F84C58204C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006-Kuyruk Yapısı", "Kuyruk Yapısı\006-Kuyruk Yapısı.csproj", "{63ACAB34-DE7F-4586-A92A-28FBD0F16351}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007-İkili Ağaç Yapısı", "İkili Ağaç Yapısı\007-İkili Ağaç Yapısı.csproj", "{662D582D-801A-4FE5-A784-7D2227D054D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D9E381-2DFC-48ED-9964-671DAF3EE458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9E381-2DFC-48ED-9964-671DAF3EE458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9E381-2DFC-48ED-9964-671DAF3EE458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9E381-2DFC-48ED-9964-671DAF3EE458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE34B5D-DBE5-45C2-A22C-D5479241A586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE34B5D-DBE5-45C2-A22C-D5479241A586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE34B5D-DBE5-45C2-A22C-D5479241A586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE34B5D-DBE5-45C2-A22C-D5479241A586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24046632-D4FF-4CE0-A3BE-DFF62CC4BC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24046632-D4FF-4CE0-A3BE-DFF62CC4BC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24046632-D4FF-4CE0-A3BE-DFF62CC4BC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24046632-D4FF-4CE0-A3BE-DFF62CC4BC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D13BCF-FDFF-4544-AEB7-165921CC6E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D13BCF-FDFF-4544-AEB7-165921CC6E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D13BCF-FDFF-4544-AEB7-165921CC6E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D13BCF-FDFF-4544-AEB7-165921CC6E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6E2EAB-EEA7-47AC-92E6-E4F84C58204C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6E2EAB-EEA7-47AC-92E6-E4F84C58204C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6E2EAB-EEA7-47AC-92E6-E4F84C58204C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6E2EAB-EEA7-47AC-92E6-E4F84C58204C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63ACAB34-DE7F-4586-A92A-28FBD0F16351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ACAB34-DE7F-4586-A92A-28FBD0F16351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ACAB34-DE7F-4586-A92A-28FBD0F16351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ACAB34-DE7F-4586-A92A-28FBD0F16351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662D582D-801A-4FE5-A784-7D2227D054D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662D582D-801A-4FE5-A784-7D2227D054D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662D582D-801A-4FE5-A784-7D2227D054D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662D582D-801A-4FE5-A784-7D2227D054D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FD8796-4D2D-4F64-B312-AE597FD48018}
+	EndGlobalSection
+EndGlobal
